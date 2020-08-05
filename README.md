@@ -8,7 +8,7 @@ api keys:
 None. 
 endpoints:  
 POST - https://i1pog7svla.execute-api.us-east-1.amazonaws.com/dev/graphql  
-GET - https://i1pog7svla.execute-api.us-east-1.amazonaws.com/dev/graphql. 
+GET - https://i1pog7svla.execute-api.us-east-1.amazonaws.com/dev/graphql     
 functions:      
 graphql: apollo-lambda-dev-graphql.    
 layers:    
